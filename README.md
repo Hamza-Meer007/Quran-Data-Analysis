@@ -5,7 +5,7 @@
 
 This project performs data analysis on the Quran, exploring patterns and themes. It features data preprocessing, visualization, and insights using various Python libraries.
 
-*Features*
+<h2Features />
 
 - Data preprocessing
 - Visualization
